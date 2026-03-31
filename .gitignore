@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+
+# Godot export
+export/
+*.pck
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Environment / secrets
+.env
